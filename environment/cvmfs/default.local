@@ -1,0 +1,3 @@
+CVMFS_HTTP_PROXY="DIRECT"
+CVMFS_DEBUGLOG=/tmp/debug.log
+CVMFS_USYSLOG=/tmp/cvmfs.log
